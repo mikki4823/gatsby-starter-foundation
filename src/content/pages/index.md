@@ -2,8 +2,8 @@
 template: index-page
 slug: /
 title: Encrypted Infotech
-tagline: "We are "
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Security - be prepared.
+featuredImage: /assets/fly-d-mt7lxzpjk7u-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
